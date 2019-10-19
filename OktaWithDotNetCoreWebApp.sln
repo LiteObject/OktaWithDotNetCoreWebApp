@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OktaWithDotNetCoreWebApp", "OktaWithDotNetCoreWebApp\OktaWithDotNetCoreWebApp.csproj", "{4194E52F-78A8-4118-ABC3-B17ECA605029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4194E52F-78A8-4118-ABC3-B17ECA605029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4194E52F-78A8-4118-ABC3-B17ECA605029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4194E52F-78A8-4118-ABC3-B17ECA605029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4194E52F-78A8-4118-ABC3-B17ECA605029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91791D27-9C87-4B0C-B531-3E38EFDC0B9C}
+	EndGlobalSection
+EndGlobal
